@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\MikyZavaleta\\source\\repos\\RepasoDeCursoCSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A3C94D10-61E7-4D5B-B557-090706AC1075}|Ejercicio_05\\Ejercicio_05.csproj|c:\\users\\mikyzavaleta\\source\\repos\\repasodecursocsharp\\ejercicio_05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3C94D10-61E7-4D5B-B557-090706AC1075}|Ejercicio_05\\Ejercicio_05.csproj|solutionrelative:ejercicio_05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{979F52F1-3548-4090-9A51-C6E98094EECA}|AppConcursoProgramacion\\AppConcursoProgramacion.csproj|c:\\users\\mikyzavaleta\\source\\repos\\repasodecursocsharp\\appconcursoprogramacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{979F52F1-3548-4090-9A51-C6E98094EECA}|AppConcursoProgramacion\\AppConcursoProgramacion.csproj|solutionrelative:appconcursoprogramacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\MikyZavaleta\\source\\repos\\RepasoDeCursoCSharp\\Ejercicio_05\\Program.cs",
-              "RelativeDocumentMoniker": "Ejercicio_05\\Program.cs",
-              "ToolTip": "C:\\Users\\MikyZavaleta\\source\\repos\\RepasoDeCursoCSharp\\Ejercicio_05\\Program.cs",
-              "RelativeToolTip": "Ejercicio_05\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAA1AAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\MikyZavaleta\\source\\repos\\RepasoDeCursoCSharp\\AppConcursoProgramacion\\Program.cs",
+              "RelativeDocumentMoniker": "AppConcursoProgramacion\\Program.cs",
+              "ToolTip": "C:\\Users\\MikyZavaleta\\source\\repos\\RepasoDeCursoCSharp\\AppConcursoProgramacion\\Program.cs",
+              "RelativeToolTip": "AppConcursoProgramacion\\Program.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAAAI8AAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T02:36:04.88Z",
+              "WhenOpened": "2025-04-23T03:50:42.23Z",
               "EditorCaption": ""
             }
           ]

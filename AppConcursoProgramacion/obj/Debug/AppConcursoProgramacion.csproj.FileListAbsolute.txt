@@ -1,0 +1,7 @@
+C:\Users\MikyZavaleta\source\repos\RepasoDeCursoCSharp\AppConcursoProgramacion\bin\Debug\AppConcursoProgramacion.exe.config
+C:\Users\MikyZavaleta\source\repos\RepasoDeCursoCSharp\AppConcursoProgramacion\bin\Debug\AppConcursoProgramacion.exe
+C:\Users\MikyZavaleta\source\repos\RepasoDeCursoCSharp\AppConcursoProgramacion\bin\Debug\AppConcursoProgramacion.pdb
+C:\Users\MikyZavaleta\source\repos\RepasoDeCursoCSharp\AppConcursoProgramacion\obj\Debug\AppConcursoProgramacion.csproj.AssemblyReference.cache
+C:\Users\MikyZavaleta\source\repos\RepasoDeCursoCSharp\AppConcursoProgramacion\obj\Debug\AppConcursoProgramacion.csproj.CoreCompileInputs.cache
+C:\Users\MikyZavaleta\source\repos\RepasoDeCursoCSharp\AppConcursoProgramacion\obj\Debug\AppConcursoProgramacion.exe
+C:\Users\MikyZavaleta\source\repos\RepasoDeCursoCSharp\AppConcursoProgramacion\obj\Debug\AppConcursoProgramacion.pdb
